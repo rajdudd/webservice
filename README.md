@@ -1,4 +1,0 @@
-webservice
-==========
-
-WebService Implementation
